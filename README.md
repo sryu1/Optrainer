@@ -7,7 +7,7 @@ Nothing really works yet
 ## Setup
 
 ```console
-pip install optuna gymnasium stable-baselines3==2.0.0a1
+pip install -r requirements.txt
 ```
 
 ## Quick Run
